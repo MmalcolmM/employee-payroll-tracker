@@ -3,10 +3,12 @@ READ ME TEMPLATE
 # Employee Payroll tracker
 
 ## Description
+https://mmalcolmm.github.io/employee-payroll-tracker/
 
 A simple application using JavaScript to add emplpoyees and their salaries to a table. 
 The application also finds the average salary from the employees added.
 Finally a function will select a random employee from the table which could be used for raffles or anything else. 
+
 
 
 ## Installation
